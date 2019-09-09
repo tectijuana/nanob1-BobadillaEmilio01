@@ -21,7 +21,7 @@ Ejemplo: Cargar un celcular
 6 .Ponerlo en un lugar seguro
 FIN
 
-
+![](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HL812_AV4?wid=1144&hei=1144&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1504204574111)
 
 
 
@@ -32,14 +32,18 @@ son la representación gráfica de las operaciones que realiza un algoritmo (dia
 El diagrama de flujo se caracteriza por la forma detallada como representa de forma gráfica los pasos a seguir para encontrar la solución del problema propuesto.
 la representación gráfica se da por medio de varios símbolos(cada uno con su propósito establecido ), que unidos entre si, indican el orden en el que se debe dar el proceso.
 
+![](https://sites.google.com/site/portafoliocarlosmacallums/_/rsrc/1494399218896/unidad-i/lenguajealgoritmico/diagrama-de-fluj2o-397795.png)
+
 - No gráficos
 Representan en forma descriptiva  las operaciones que debe  realizar un algoritmo(pseudocodigo).
 
 El pseudocodigo  es un lenguaje intermedio entre nuestro lenguaje y el lenguaje de programación, su característica principal es el de representar la solución de forma mas detallada  y lo mas parecida al lenguaje, para que posteriormente se pueda codificar.
 otras  características son:
 
-Se puede ejecutar en un ordenador.
-Facilita el paso del programa al lenguaje de programación.
-Es independiente del lenguaje del programación que se vaya a utilizar.
-Método que facilita la programación y solución al algoritmo del programa.
+- Se puede ejecutar en un ordenador.
+- Facilita el paso del programa al lenguaje de programación.
+- Es independiente del lenguaje del programación que se vaya a utilizar.
+- Método que facilita la programación y solución al algoritmo del programa.
+
+![](https://sites.google.com/site/portafoliocarlosmacallums/_/rsrc/1494399218896/unidad-i/lenguajealgoritmico/14930986722.jpg)
 
