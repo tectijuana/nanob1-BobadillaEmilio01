@@ -1,3 +1,2 @@
-# TITULO
-# IMAGEN
-![](https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_400x400.jpg)
+# Definicion de lenguaje
+Sistema de signos que utiliza una comunidad para comunicarse oralmente o por escrito.
