@@ -1,4 +1,4 @@
-#Actividad 1
+# Actividad 1
 
 # Definicion de lenguaje
 Sistema de signos que utiliza una comunidad para comunicarse oralmente o por escrito.
