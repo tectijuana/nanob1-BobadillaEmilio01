@@ -13,13 +13,13 @@ Son aquellos que se aplican en el día a día de las personas.
 
 Ejemplo: Cargar un celcular
 
-1.Buscar el cargador
-2. Agarrar el Cargador
-3. Agarraer el celular
-4. Poner El Enchufe en el Celular
-5. Esperar a que se ponga a cargar
-6 .Ponerlo en un lugar seguro
-FIN
+- 1.Buscar el cargador
+- 2. Agarrar el Cargador
+- 3. Agarraer el celular
+- 4. Poner El Enchufe en el Celular
+- 5. Esperar a que se ponga a cargar
+- 6 .Ponerlo en un lugar seguro
+- FIN
 
 ![](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HL812_AV4?wid=1144&hei=1144&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1504204574111)
 
